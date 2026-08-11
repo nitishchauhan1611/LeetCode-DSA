@@ -1,6 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int missingInteger(int[] nums) {
        // Calculate the sum of the longest sequential prefix starting at index 0
